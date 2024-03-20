@@ -1,13 +1,95 @@
 /* Add screen styles below */
 body {
     background: #1A1A1A;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
-.betelgeuse {
-    background: linear-gradient(#0D005B, #6B1963);
+h1 {
+    font-size: 50px;
+    color: #FFFFFF;
+}
+h2 {
+    font-size: 50px;
+    background: -webkit-linear-gradient(#07B3EA, #EC9228, #AE3232);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.rigel {
+    background: linear-gradient(#07B3EA, #AE3232, #EC9228);
     text-align: center;
+    color: #000000;
     border-radius: 10px;
     margin: auto;
     width: 250px;
     padding: 20px;
+    margin-top: 20px;
+}
+.betelgeuse {
+    background: linear-gradient(#0D005B, #6B1963);
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 10px;
+    margin: auto;
+    width: 250px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.aldebaran {
+    background: linear-gradient(#0D005B, #6B1963);
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 10px;
+    margin: auto;
+    width: 250px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.lacertae {
+    background: linear-gradient(#0D005B, #6B1963);
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 10px;
+    margin: auto;
+    width: 250px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.sun {
+    background: linear-gradient(#0D005B, #6B1963);
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 10px;
+    margin: auto;
+    width: 250px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.moon {
+    background: linear-gradient(#0D005B, #6B1963);
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 10px;
+    margin: auto;
+    width: 250px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.comet {
+    background: linear-gradient(#0D005B, #6B1963);
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 10px;
+    margin: auto;
+    width: 250px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.comet2 {
+    background: linear-gradient(#0D005B, #6B1963);
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 10px;
+    margin: auto;
+    width: 250px;
+    padding: 20px;
+    margin-top: 20px;
 }
