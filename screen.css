@@ -3,6 +3,10 @@ body {
     background: #1A1A1A;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
+.navbar {
+    width: auto;
+    display: flex;
+}
 h1 {
     font-size: 50px;
     color: #FFFFFF;
@@ -28,7 +32,7 @@ h3 {
     text-align: center;
     color: #000000;
     border-radius: 20px;
-    margin: auto;
+    margin: 10px;
     width: 400px;
     padding: 50px;
     margin-top: 20px;
@@ -38,8 +42,9 @@ h3 {
     text-align: center;
     color: #000000;
     border-radius: 10px;
-    margin: auto;
+    margin: 10px;
     width: 250px;
+    height: 300px;
     padding: 20px;
     margin-top: 20px;
 }
@@ -48,8 +53,9 @@ h3 {
     text-align: center;
     color: #FFFFFF;
     border-radius: 10px;
-    margin: auto;
+    margin: 10px;
     width: 250px;
+    height: 300px;
     padding: 20px;
     margin-top: 20px;
 }
@@ -58,8 +64,9 @@ h3 {
     text-align: center;
     color: #FFFFFF;
     border-radius: 10px;
-    margin: auto;
+    margin: 10px;
     width: 250px;
+    height: 300px;
     padding: 20px;
     margin-top: 20px;
 }
@@ -68,8 +75,9 @@ h3 {
     text-align: center;
     color: #FFFFFF;
     border-radius: 10px;
-    margin: auto;
+    margin: 10px;
     width: 250px;
+    height: 300px;
     padding: 20px;
     margin-top: 20px;
 }
@@ -78,8 +86,9 @@ h3 {
     text-align: center;
     color: #FFFFFF;
     border-radius: 10px;
-    margin: auto;
+    margin: 10px;
     width: 250px;
+    height: 300px;
     padding: 20px;
     margin-top: 20px;
 }
@@ -88,8 +97,9 @@ h3 {
     text-align: center;
     color: #FFFFFF;
     border-radius: 10px;
-    margin: auto;
+    margin: 10px;
     width: 250px;
+    height: 300px;
     padding: 20px;
     margin-top: 20px;
 }
@@ -98,8 +108,9 @@ h3 {
     text-align: center;
     color: #FFFFFF;
     border-radius: 10px;
-    margin: auto;
+    margin: 10px;
     width: 250px;
+    height: 300px;
     padding: 20px;
     margin-top: 20px;
 }
@@ -108,8 +119,9 @@ h3 {
     text-align: center;
     color: #FFFFFF;
     border-radius: 10px;
-    margin: auto;
+    margin: 10px;
     width: 250px;
+    height: 300px;
     padding: 20px;
     margin-top: 20px;
 }
