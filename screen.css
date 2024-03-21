@@ -13,6 +13,26 @@ h2 {
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
+h3 {
+
+}
+.content {
+    display: flex;
+    width: 0 auto;
+    margin: 30px;
+    max-width: 300px;
+    
+}
+.pistol {
+    background: linear-gradient(#07B3EA, #AE3232, #EC9228);
+    text-align: center;
+    color: #000000;
+    border-radius: 20px;
+    margin: auto;
+    width: 400px;
+    padding: 50px;
+    margin-top: 20px;
+}
 .rigel {
     background: linear-gradient(#07B3EA, #AE3232, #EC9228);
     text-align: center;
