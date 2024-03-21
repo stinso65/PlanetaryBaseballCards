@@ -9,9 +9,9 @@ h1 {
 }
 h2 {
     font-size: 50px;
-    background: -webkit-linear-gradient(#07B3EA, #EC9228, #AE3232);
-    -webkit-background-clip: text;
+    background: -webkit-linear-gradient(rgb(7, 179, 234), rgb(236, 146, 40));
     -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 .rigel {
     background: linear-gradient(#07B3EA, #AE3232, #EC9228);
