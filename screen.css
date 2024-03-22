@@ -19,10 +19,16 @@ h2 {
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
+.big-flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
 .flex-container {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    margin-left: 365px;
 }
 .pistol {
     background: linear-gradient(90deg,#07B3EA, #EC9228);
@@ -83,7 +89,6 @@ h2 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    margin-left: 365px;
 }
 .sun {
     background: linear-gradient(70deg,#0D005B, #6B1963);
