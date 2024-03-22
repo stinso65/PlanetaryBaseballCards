@@ -20,12 +20,10 @@ h1 {
 }
 h2 {
     font-size: 50px;
-    background: -webkit-linear-gradient(rgb(7, 179, 234), rgb(236, 146, 40));
+    background: -webkit-linear-gradient(360deg,#07B3EA, #EC9228, #AE3232);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
-}
-h3 {
-
+    
 }
 .flex-container {
     display: flex;
