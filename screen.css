@@ -22,11 +22,10 @@ h2 {
 h3 {
 
 }
-.content {
+.flex-container {
     display: flex;
-    margin: 30px;
-    max-width: 300px;
-    
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 .pistol {
     background: linear-gradient(#07B3EA, #AE3232, #EC9228);
