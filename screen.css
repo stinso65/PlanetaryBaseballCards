@@ -25,6 +25,14 @@ h2 {
     flex-wrap: wrap;
     position: absolute;
 }
+.big-flex h3 {
+    padding-top: 80px;
+    font-size: xx-large;
+}
+.big-flex p {
+    font-size: large;
+    font-weight: 600;
+}
 .flex-container {
     display: flex;
     flex-direction: row;
@@ -38,8 +46,8 @@ h2 {
     color: #000000;
     border-radius: 20px;
     margin: 10px;
-    width: 250px;
-    height: 400px;
+    width: 350px;
+    height: 610px;
     padding: 50px;
     margin-top: 20px;
 }
@@ -53,6 +61,7 @@ h2 {
     height: 300px;
     padding: 20px;
     margin-top: 20px;
+    margin-left: 175px;
 }
 .betelgeuse {
     background: linear-gradient(70deg,#0D005B, #6B1963);
@@ -103,6 +112,7 @@ h2 {
     height: 300px;
     padding: 20px;
     margin-top: 20px;
+    margin-left: 175px;
 }
 .moon {
     background: linear-gradient(70deg,#0D005B, #6B1963);
