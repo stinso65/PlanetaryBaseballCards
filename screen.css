@@ -25,7 +25,7 @@ h2 {
     flex-wrap: wrap;
 }
 .pistol {
-    background: linear-gradient(#07B3EA, #AE3232, #EC9228);
+    background: linear-gradient(90deg,#07B3EA, #EC9228);
     text-align: center;
     color: #000000;
     border-radius: 20px;
@@ -36,7 +36,7 @@ h2 {
     margin-top: 20px;
 }
 .rigel {
-    background: linear-gradient(#07B3EA, #AE3232, #EC9228);
+    background: linear-gradient(90deg,#07B3EA, #EC9228);
     text-align: center;
     color: #000000;
     border-radius: 10px;
@@ -47,7 +47,7 @@ h2 {
     margin-top: 20px;
 }
 .betelgeuse {
-    background: linear-gradient(#0D005B, #6B1963);
+    background: linear-gradient(70deg,#0D005B, #6B1963);
     text-align: center;
     color: #FFFFFF;
     border-radius: 10px;
@@ -58,7 +58,7 @@ h2 {
     margin-top: 20px;
 }
 .aldebaran {
-    background: linear-gradient(#0D005B, #6B1963);
+    background: linear-gradient(70deg,#0D005B, #6B1963);
     text-align: center;
     color: #FFFFFF;
     border-radius: 10px;
@@ -69,7 +69,7 @@ h2 {
     margin-top: 20px;
 }
 .lacertae {
-    background: linear-gradient(#0D005B, #6B1963);
+    background: linear-gradient(70deg,#0D005B, #6B1963);
     text-align: center;
     color: #FFFFFF;
     border-radius: 10px;
@@ -86,7 +86,7 @@ h2 {
     margin-left: 365px;
 }
 .sun {
-    background: linear-gradient(#0D005B, #6B1963);
+    background: linear-gradient(70deg,#0D005B, #6B1963);
     text-align: center;
     color: #FFFFFF;
     border-radius: 10px;
@@ -97,7 +97,7 @@ h2 {
     margin-top: 20px;
 }
 .moon {
-    background: linear-gradient(#0D005B, #6B1963);
+    background: linear-gradient(70deg,#0D005B, #6B1963);
     text-align: center;
     color: #FFFFFF;
     border-radius: 10px;
@@ -108,7 +108,7 @@ h2 {
     margin-top: 20px;
 }
 .comet {
-    background: linear-gradient(#0D005B, #6B1963);
+    background: linear-gradient(70deg,#0D005B, #6B1963);
     text-align: center;
     color: #FFFFFF;
     border-radius: 10px;
@@ -119,7 +119,7 @@ h2 {
     margin-top: 20px;
 }
 .comet2 {
-    background: linear-gradient(#0D005B, #6B1963);
+    background: linear-gradient(70deg,#0D005B, #6B1963);
     text-align: center;
     color: #FFFFFF;
     border-radius: 10px;
