@@ -23,12 +23,14 @@ h2 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    position: absolute;
 }
 .flex-container {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     margin-left: 365px;
+    position: absolute;
 }
 .pistol {
     background: linear-gradient(90deg,#07B3EA, #EC9228);
@@ -89,6 +91,7 @@ h2 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    position: relative;
 }
 .sun {
     background: linear-gradient(70deg,#0D005B, #6B1963);
