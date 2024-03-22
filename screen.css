@@ -8,11 +8,6 @@ body {
     display: flex;
     padding-left: 20px;
 }
-.navbar h3 {
-    color: #FFFFFF;
-    margin-left: 600px;
-    margin-top: 75px;
-}
 h1 {
     font-size: 50px;
     color: #FFFFFF;
@@ -133,11 +128,4 @@ h2 {
     height: 300px;
     padding: 20px;
     margin-top: 20px;
-}
-.backbutton {
-    background: purple;
-    text-align: center;
-    border-radius: 15px;
-    width: 100px;
-    height: 40px;
 }
