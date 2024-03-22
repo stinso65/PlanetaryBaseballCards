@@ -82,6 +82,12 @@ h3 {
     padding: 20px;
     margin-top: 20px;
 }
+.flex-container2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 360px;
+}
 .sun {
     background: linear-gradient(#0D005B, #6B1963);
     text-align: center;
