@@ -23,7 +23,6 @@ h2 {
     background: -webkit-linear-gradient(360deg,#07B3EA, #EC9228, #AE3232);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
-    
 }
 .flex-container {
     display: flex;
@@ -134,4 +133,11 @@ h2 {
     height: 300px;
     padding: 20px;
     margin-top: 20px;
+}
+.backbutton {
+    background: purple;
+    text-align: center;
+    border-radius: 15px;
+    width: 100px;
+    height: 40px;
 }
